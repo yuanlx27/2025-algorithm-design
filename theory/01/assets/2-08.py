@@ -22,4 +22,4 @@ def find_median(A, B):
 
 A = [1, 2, 3, 4]
 B = [5, 6, 7, 8]
-print(find_median(A, B))  # Output: 4.5
+print(find_median(A, B))
